@@ -1,0 +1,57 @@
+# Let's stay together (Al Green)
+
+## Chords
+
+Bbmaj7/G	(G) Bb D F A
+Am7 		(A) G C E G
+Gm7		(G) F Bb D F
+C7 		(C) E Bb D E
+F 		(F) F A C
+Dm7(9) 		(D) F A C E
+Bb 		(Bb) F Bb D
+Dbm		(Db) Ab Db F
+Fmaj7  		(F) F A C E
+Em6 		(E) E G C E
+D7(9) 		(D) F# A C E
+Bbmaj7 		(Bb) A D F A
+C7sus2 		(C) Bb D F
+Abmaj7 		(Ab) G C Eb G
+
+
+Intro
+
+| Bbmaj7/G Am7	| Gm7 Am7	| Bbmaj7/G Am7	| Gm7 C7	|
+	
+
+Verse
+
+| F 		| %		| Dm7(9) 	| % 		|
+| Bb  		| %		| Dbm 		| % 		|
+| Am7 Gm7 	| Fmaj7 Em6	| Dm7(9)	| D7(9) 	|
+| Am7 Gm7 	| Fmaj7 Em6	| Dm7(9)	| D7(9) 	|
+
+
+Chorus
+
+| Gm7		| % 		| Am7 		| %		|
+| Gm7 		| %		| Bbmaj7 Am7	| Dm7 C7sus2   	|
+| Gm7		| %		| Abmaj7	| %		|
+| Gm7 		| %		| Bbmaj7 Am7	| Dm7 C7sus2    |
+
+
+
+## Tonality
+
+I  	II 	III	IV	V	VI	VII
+------------------------------------------------------
+F	G	A	Bb	C	D	E
+------------------------------------------------------
+A  	Bb 	C  	D  	E  	F  	G
+C  	D  	E  	F  	G  	A  	Bb
+E  	F  	G  	A  	Bb 	C  	D
+------------------------------------------------------
+Fmaj7	Gm7	Am7	Bbmaj7	C7	Dm7	Em7b5 
+
+
+
+
